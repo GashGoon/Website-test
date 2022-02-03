@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "Schoolboys",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
